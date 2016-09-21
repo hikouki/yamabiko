@@ -1,0 +1,16 @@
+{
+  "name": "yamabiko",
+  "version": "1.0.0",
+  "description": "echo server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "yamabiko",
+    "echo",
+    "server"
+  ],
+  "author": "hikouki",
+  "license": "MIT"
+}
